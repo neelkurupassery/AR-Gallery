@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="symbolback" size="0.157000 0.236865" />
+    <ImageTarget name="symbolfront" size="0.157000 0.237822" />
+    <ImageTarget name="goblet" size="0.132000 0.192086" />
+  </Tracking>
+</QCARConfig>
