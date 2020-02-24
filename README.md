@@ -11,4 +11,4 @@
  
  Within the Unity Hub, you should first "Add Project", and select the AR Gallery Folder. Then once Vuforia is imported, click "Play". 
  
-
+Limitations include lighting affecting the angles at which the images are recognized, and the button functionality depending on the angle of the camera. The code works best when one is directly facing the object. 
